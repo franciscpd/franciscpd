@@ -9,3 +9,9 @@ Entre os meus objetivos vale destacar o de mentorar e ajudar a formar novos dese
 <a href="https://twitter.com/franciscpd" target="blank"><img src="https://img.shields.io/twitter/follow/franciscpd?logo=twitter&style=for-the-badge" alt="franciscpd" /></a></p>
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscpd&theme=onedark&row=1&margin-w=5" alt="franciscpd" /></a> </p>
+
+<h4>Linguagens:</h4>
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />      
+</p>
