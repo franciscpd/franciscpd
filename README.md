@@ -43,7 +43,7 @@ Entre os meus objetivos vale destacar o de mentorar e ajudar a formar novos dese
 
 ### Ninhas contribuições
 
-<img href="https://raw.githubusercontent.com/franciscpd/franciscpd/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/franciscpd/franciscpd/output/snake.svg" alt="Snake animation" />
 
 ### Minhas redes sociais
 
