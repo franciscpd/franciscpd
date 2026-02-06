@@ -24,42 +24,28 @@ Quando não estou codando, estou mentorando desenvolvedores e ajudando a formar 
 **AI & Machine Learning**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="openai badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" alt="langchain badge" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark" height="48" alt="tensorflow python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="openai" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" alt="langchain" />
+  <img src="https://img.shields.io/badge/Agno-FF4017?style=for-the-badge&logoColor=white" height="48" alt="agno" />
 </div>
 
 **Languages & Runtimes**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="elixir logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,nodejs,elixir,dart&theme=dark" height="48" alt="languages" />
 </div>
 
 **Frontend & Mobile**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="52" alt="nuxtjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,flutter,tailwind&theme=dark" height="48" alt="frontend" />
 </div>
 
 **Backend & Infra**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" width="52" alt="phoenix logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=laravel,graphql,redis,docker,aws&theme=dark" height="48" alt="backend infra" />
 </div>
 
 ---
@@ -67,12 +53,21 @@ Quando não estou codando, estou mentorando desenvolvedores e ajudando a formar 
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciscpd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscpd&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=franciscpd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+    <img src="https://github-readme-stats.vercel.app/api?username=franciscpd&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&locale=pt-br" height="160" alt="stats graph" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=franciscpd&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscpd&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&locale=pt-br" height="160" alt="languages graph" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=franciscpd&theme=tokyonight&hide_border=true&locale=pt_BR" height="160" alt="streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=franciscpd&theme=tokyonight&hide_border=true&locale=pt_BR" />
+    <img src="https://streak-stats.demolab.com/?user=franciscpd&theme=default&hide_border=true&locale=pt_BR" height="160" alt="streak stats" />
+  </picture>
 </div>
 
 ---
