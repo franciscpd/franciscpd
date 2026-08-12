@@ -1,105 +1,67 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=180&section=header&text=Francis%20Oliveira&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Tech%20Lead%20%7C%20AI-Driven%20Innovation%20%7C%20Full%20Stack%20Engineer&descSize=16&descAlignY=55&descColor=CCCCFF" />
+<div align="right"><samp><b>PT-BR</b> · <a href="./README.en.md">EN</a></samp></div>
 
-## Sobre mim
+![Francisross — Staff Engineer · AI](./assets/banner.png)
 
-Sou um **Tech Lead** apaixonado por transformar problemas complexos em soluções elegantes, com foco especial em **Inteligência Artificial aplicada ao desenvolvimento de software**. Acredito que a IA não é apenas uma ferramenta — é um catalisador de inovação que redefine como construímos tecnologia.
+## <samp>// SOBRE MIM</samp>
 
-Com uma base sólida em lógica imperativa e funcional, transito entre linguagens e frameworks com naturalidade. Meu diferencial está em **integrar IA no ciclo completo de desenvolvimento** — da arquitetura à entrega — criando produtos mais inteligentes e experiências mais impactantes.
+**Staff Software Engineer II — AI @ Neon.** Há 14 anos transformo tecnologia em resultado — hoje construindo IA Generativa em escala num dos maiores bancos digitais do Brasil.
 
-Quando não estou codando, estou mentorando desenvolvedores e ajudando a formar a próxima geração de profissionais de tecnologia.
+Comecei em 2010 migrando ERP de Clipper pra Delphi no interior de Rondônia. No caminho: liderei times, escalei sistemas distribuídos, dei aula e mentorei mais de cem devs. Acredito que tecnologia existe pra servir ao negócio — e que carreira ninguém constrói sozinho.
 
----
+<samp>14+ ANOS DE TECH · 6+ ANOS LIDERANDO TIMES · 100+ DEVS MENTORADOS</samp>
 
-### O que estou construindo
+![](./assets/divider.svg)
 
-- Explorando **LLMs, agentes autônomos e IA generativa** aplicados a produtos reais
-- Arquitetando soluções com **AI-first design** em escala
-- Desenvolvendo ferramentas que combinam **engenharia de software moderna com inteligência artificial**
-- Compartilhando conhecimento e mentorando devs sobre IA aplicada
+## <samp>// O QUE ESTOU CONSTRUINDO</samp>
 
----
+- **[batuta](https://github.com/franciscpd/batuta)** — orquestração pro Claude Code: o Claude rege, executores mais baratos tocam
+- **[lyra-ds](https://lyra-ds.dev)** — design system CSS-first: 78 componentes, 211 tokens semânticos, zero JS em runtime
+- **Servidores MCP** para Gmail, Calendar e Drive — agentes de IA operando ferramentas reais
+- **IA Generativa em escala** no Neon — LLMs, RAG e agentes em produção
+- **[Mentoria](https://francisross.com.br/#mentoria)** de carreira, técnica e produto — a primeira sessão é por minha conta
 
-### Tech Stack
+![](./assets/divider.svg)
 
-**AI & Machine Learning**
+## <samp>// TECH STACK</samp>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,py&theme=dark" height="48" alt="tensorflow python" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="openai" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" alt="langchain" />
-  <img src="https://img.shields.io/badge/Agno-FF4017?style=for-the-badge&logoColor=white" height="48" alt="agno" />
-</div>
+<samp>GENAI</samp>
 
-**Languages & Runtimes**
+![LangChain](https://img.shields.io/badge/LANGCHAIN-0c0c08?style=for-the-badge&logo=langchain&logoColor=f2cd00) ![Agno](https://img.shields.io/badge/AGNO-0c0c08?style=for-the-badge&logoColor=f2cd00) ![RAG](https://img.shields.io/badge/RAG-0c0c08?style=for-the-badge&logoColor=f2cd00) ![Vector DBs](https://img.shields.io/badge/VECTOR%20DBS-0c0c08?style=for-the-badge&logoColor=f2cd00) ![OpenAI](https://img.shields.io/badge/OPENAI-0c0c08?style=for-the-badge&logo=openai&logoColor=f2cd00)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,nodejs,elixir,dart&theme=dark" height="48" alt="languages" />
-</div>
+<samp>BACKEND</samp>
 
-**Frontend & Mobile**
+![Node.js](https://img.shields.io/badge/NODE.JS-0c0c08?style=for-the-badge&logo=nodedotjs&logoColor=f2cd00) ![NestJS](https://img.shields.io/badge/NESTJS-0c0c08?style=for-the-badge&logo=nestjs&logoColor=f2cd00) ![Python](https://img.shields.io/badge/PYTHON-0c0c08?style=for-the-badge&logo=python&logoColor=f2cd00) ![Elixir](https://img.shields.io/badge/ELIXIR-0c0c08?style=for-the-badge&logo=elixir&logoColor=f2cd00) ![Kafka](https://img.shields.io/badge/KAFKA-0c0c08?style=for-the-badge&logo=apachekafka&logoColor=f2cd00)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,flutter,tailwind&theme=dark" height="48" alt="frontend" />
-</div>
+<samp>FRONTEND</samp>
 
-**Backend & Infra**
+![React](https://img.shields.io/badge/REACT-0c0c08?style=for-the-badge&logo=react&logoColor=f2cd00) ![Next.js](https://img.shields.io/badge/NEXT.JS-0c0c08?style=for-the-badge&logo=nextdotjs&logoColor=f2cd00) ![Vue](https://img.shields.io/badge/VUE-0c0c08?style=for-the-badge&logo=vuedotjs&logoColor=f2cd00) ![Design Systems](https://img.shields.io/badge/DESIGN%20SYSTEMS-0c0c08?style=for-the-badge&logoColor=f2cd00) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0c0c08?style=for-the-badge&logo=typescript&logoColor=f2cd00)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,graphql,redis,docker,aws&theme=dark" height="48" alt="backend infra" />
-</div>
+<samp>LIDERANÇA</samp>
 
----
+![Gestão de times](https://img.shields.io/badge/GEST%C3%83O%20DE%20TIMES-0c0c08?style=for-the-badge&logoColor=f2cd00) ![PDI & 1:1s](https://img.shields.io/badge/PDI%20%26%201%3A1S-0c0c08?style=for-the-badge&logoColor=f2cd00) ![Mentoria](https://img.shields.io/badge/MENTORIA-0c0c08?style=for-the-badge&logoColor=f2cd00) ![Agile](https://img.shields.io/badge/AGILE-0c0c08?style=for-the-badge&logoColor=f2cd00)
 
-### GitHub Analytics
+![](./assets/divider.svg)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=franciscpd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-    <img src="https://github-readme-stats.vercel.app/api?username=franciscpd&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&locale=pt-br" height="160" alt="stats graph" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=franciscpd&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscpd&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&locale=pt-br" height="160" alt="languages graph" />
-  </picture>
-</div>
+## <samp>// CONSISTÊNCIA</samp>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=franciscpd&theme=tokyonight&hide_border=true&locale=pt_BR" />
-    <img src="https://streak-stats.demolab.com/?user=franciscpd&theme=default&hide_border=true&locale=pt_BR" height="160" alt="streak stats" />
-  </picture>
-</div>
+![Streak](https://streak-stats.demolab.com/?user=franciscpd&background=0C0C08&border=26261F&stroke=26261F&ring=F2CD00&fire=F2CD00&currentStreakNum=FFFFFF&currentStreakLabel=F2CD00&sideNums=FFFFFF&sideLabels=A3A399&dates=76766D&locale=pt_BR)
 
----
+![](./assets/divider.svg)
 
-### Contribuições
+## <samp>// PROJETOS EM DESTAQUE</samp>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franciscpd/franciscpd/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franciscpd/franciscpd/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/franciscpd/franciscpd/output/snake.svg" />
-</picture>
+| | |
+|---|---|
+| **[batuta](https://github.com/franciscpd/batuta)** <br><sub>Quem rege não toca — orquestração pro Claude Code com commits atômicos e estado retomável. Plugin · MIT</sub> | **[lyra-ds](https://github.com/lyra-ds/lyra)** <br><sub>Design system CSS-first: 78 componentes, 211 tokens, zero JS em runtime. CSS/React · MIT</sub> |
+| **[mcp-server-gmail](https://github.com/franciscpd/mcp-server-gmail)** <br><sub>Servidor MCP para Gmail — e-mails operados por agentes de IA. TypeScript</sub> | **[mcp-server-calendar](https://github.com/franciscpd/mcp-server-calendar)** <br><sub>Servidor MCP para Google Calendar — eventos gerenciados por agentes. TypeScript</sub> |
+| **[mcp-server-drive](https://github.com/franciscpd/mcp-server-drive)** <br><sub>Servidor MCP para Drive, Docs, Sheets e Slides. TypeScript</sub> | **[phoenix-ai](https://github.com/franciscpd/phoenix-ai)** <br><sub>Biblioteca de integração com IA para Elixir, inspirada em laravel/ai. Elixir</sub> |
 
----
+![](./assets/divider.svg)
 
-### Vamos conversar?
+## <samp>// VAMOS CONVERSAR</samp>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/fransdeoliveira/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
-  </a>
-  <a href="https://profile.codersrank.io/user/franciscpd" target="_blank">
-    <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white" height="35" alt="codersrank" />
-  </a>
-  <a href="https://twitter.com/FrancisCPD" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="twitter" />
-  </a>
-  <a href="http://discordapp.com/users/franciscpd#7293" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
-  </a>
-  <a href="https://www.fransdeoliveira.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="website" />
-  </a>
-</div>
+Pronto pra destravar sua próxima fase? A primeira sessão de avaliação é gratuita — sem compromisso, com plano de ação.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=120&section=footer" />
+[![Agendar 1h grátis](https://img.shields.io/badge/AGENDAR%201H%20GR%C3%81TIS-f2cd00?style=for-the-badge&logo=whatsapp&logoColor=0c0c08)](https://wa.me/5516996324483) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0c0c08?style=for-the-badge&logo=linkedin&logoColor=f2cd00)](https://linkedin.com/in/fransdeoliveira) [![Website](https://img.shields.io/badge/FRANCISROSS.COM.BR-0c0c08?style=for-the-badge&logo=googlechrome&logoColor=f2cd00)](https://francisross.com.br) [![Instagram](https://img.shields.io/badge/INSTAGRAM-0c0c08?style=for-the-badge&logo=instagram&logoColor=f2cd00)](https://instagram.com/fransdeoliveira) [![X](https://img.shields.io/badge/X-0c0c08?style=for-the-badge&logo=x&logoColor=f2cd00)](https://twitter.com/FrancisCPD)
+
+![](./assets/footer.png)
