@@ -42,12 +42,6 @@ I started in 2010 migrating an ERP from Clipper to Delphi in rural Rondônia. Al
 
 ![](./assets/divider.svg)
 
-## <samp>// CONSISTENCY</samp>
-
-![Streak](https://streak-stats.demolab.com/?user=franciscpd&background=0C0C08&border=26261F&stroke=26261F&ring=F2CD00&fire=F2CD00&currStreakNum=FFFFFF&currStreakLabel=F2CD00&sideNums=FFFFFF&sideLabels=A3A399&dates=76766D)
-
-![](./assets/divider.svg)
-
 ## <samp>// FEATURED PROJECTS</samp>
 
 | | |
