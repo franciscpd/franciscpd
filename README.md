@@ -46,9 +46,9 @@ Comecei em 2010 migrando ERP de Clipper pra Delphi no interior de Rondônia. No 
 
 | | |
 |---|---|
-| **[batuta](https://github.com/franciscpd/batuta)** <br><sub>Quem rege não toca — orquestração pro Claude Code com commits atômicos e estado retomável. Plugin · MIT</sub> | **[lyra-ds](https://github.com/lyra-ds/lyra)** <br><sub>Design system CSS-first: 78 componentes, 211 tokens, zero JS em runtime. CSS/React · MIT</sub> |
-| **[mcp-server-gmail](https://github.com/franciscpd/mcp-server-gmail)** <br><sub>Servidor MCP para Gmail — e-mails operados por agentes de IA. TypeScript</sub> | **[mcp-server-calendar](https://github.com/franciscpd/mcp-server-calendar)** <br><sub>Servidor MCP para Google Calendar — eventos gerenciados por agentes. TypeScript</sub> |
-| **[mcp-server-drive](https://github.com/franciscpd/mcp-server-drive)** <br><sub>Servidor MCP para Drive, Docs, Sheets e Slides. TypeScript</sub> | **[phoenix-ai](https://github.com/franciscpd/phoenix-ai)** <br><sub>Biblioteca de integração com IA para Elixir, inspirada em laravel/ai. Elixir</sub> |
+| **[batuta-compozy](https://github.com/franciscpd/batuta-compozy)** <br><sub>Batuta pro CompozyOS — da conversa à spec, tarefas roteadas pro modelo mais barato capaz de executá-las. Shell · MIT</sub> | **[batuta](https://github.com/franciscpd/batuta)** <br><sub>Quem rege não toca — orquestração pro Claude Code com commits atômicos e estado retomável. Plugin · MIT</sub> |
+| **[lyra-ds](https://github.com/lyra-ds/lyra)** <br><sub>Design system CSS-first: 78 componentes, 211 tokens, zero JS em runtime. CSS/React · MIT</sub> | **[mcp-server-gmail](https://github.com/franciscpd/mcp-server-gmail)** <br><sub>Servidor MCP para Gmail — e-mails operados por agentes de IA. TypeScript</sub> |
+| **[mcp-server-calendar](https://github.com/franciscpd/mcp-server-calendar)** <br><sub>Servidor MCP para Google Calendar — eventos gerenciados por agentes. TypeScript</sub> | **[mcp-server-drive](https://github.com/franciscpd/mcp-server-drive)** <br><sub>Servidor MCP para Drive, Docs, Sheets e Slides. TypeScript</sub> |
 
 ![](./assets/divider.svg)
 

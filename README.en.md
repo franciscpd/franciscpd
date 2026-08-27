@@ -46,9 +46,9 @@ I started in 2010 migrating an ERP from Clipper to Delphi in rural Rondônia. Al
 
 | | |
 |---|---|
-| **[batuta](https://github.com/franciscpd/batuta)** <br><sub>The conductor doesn't play — orchestration for Claude Code with atomic commits and resumable state. Plugin · MIT</sub> | **[lyra-ds](https://github.com/lyra-ds/lyra)** <br><sub>CSS-first design system: 78 components, 211 tokens, zero runtime JS. CSS/React · MIT</sub> |
-| **[mcp-server-gmail](https://github.com/franciscpd/mcp-server-gmail)** <br><sub>MCP server for Gmail — email operated by AI agents. TypeScript</sub> | **[mcp-server-calendar](https://github.com/franciscpd/mcp-server-calendar)** <br><sub>MCP server for Google Calendar — events managed by agents. TypeScript</sub> |
-| **[mcp-server-drive](https://github.com/franciscpd/mcp-server-drive)** <br><sub>MCP server for Drive, Docs, Sheets, and Slides. TypeScript</sub> | **[phoenix-ai](https://github.com/franciscpd/phoenix-ai)** <br><sub>AI integration library for Elixir, inspired by laravel/ai. Elixir</sub> |
+| **[batuta-compozy](https://github.com/franciscpd/batuta-compozy)** <br><sub>Batuta for CompozyOS — from conversation to spec, tasks routed to the cheapest capable model. Shell · MIT</sub> | **[batuta](https://github.com/franciscpd/batuta)** <br><sub>The conductor doesn't play — orchestration for Claude Code with atomic commits and resumable state. Plugin · MIT</sub> |
+| **[lyra-ds](https://github.com/lyra-ds/lyra)** <br><sub>CSS-first design system: 78 components, 211 tokens, zero runtime JS. CSS/React · MIT</sub> | **[mcp-server-gmail](https://github.com/franciscpd/mcp-server-gmail)** <br><sub>MCP server for Gmail — email operated by AI agents. TypeScript</sub> |
+| **[mcp-server-calendar](https://github.com/franciscpd/mcp-server-calendar)** <br><sub>MCP server for Google Calendar — events managed by agents. TypeScript</sub> | **[mcp-server-drive](https://github.com/franciscpd/mcp-server-drive)** <br><sub>MCP server for Drive, Docs, Sheets, and Slides. TypeScript</sub> |
 
 ![](./assets/divider.svg)
 
